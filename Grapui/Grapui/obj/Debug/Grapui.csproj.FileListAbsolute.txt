@@ -1,0 +1,30 @@
+C:\Users\mixai\source\repos\Grapui\Grapui\bin\Debug\Grapui.exe.config
+C:\Users\mixai\source\repos\Grapui\Grapui\bin\Debug\Grapui.exe
+C:\Users\mixai\source\repos\Grapui\Grapui\bin\Debug\Grapui.pdb
+C:\Users\mixai\source\repos\Grapui\Grapui\obj\Debug\Grapui.csproj.AssemblyReference.cache
+C:\Users\mixai\source\repos\Grapui\Grapui\obj\Debug\Grapui.csproj.CoreCompileInputs.cache
+C:\Users\mixai\source\repos\Grapui\Grapui\obj\Debug\Grapui.exe
+C:\Users\mixai\source\repos\Grapui\Grapui\obj\Debug\Grapui.pdb
+F:\графы\Grapui\Grapui\bin\Debug\Grapui.exe.config
+F:\графы\Grapui\Grapui\bin\Debug\Grapui.exe
+F:\графы\Grapui\Grapui\bin\Debug\Grapui.pdb
+F:\графы\Grapui\Grapui\obj\Debug\Grapui.csprojAssemblyReference.cache
+F:\графы\Grapui\Grapui\obj\Debug\Grapui.exe
+F:\графы\Grapui\Grapui\obj\Debug\Grapui.pdb
+D:\графы\Grapui\Grapui\bin\Debug\Grapui.exe.config
+D:\графы\Grapui\Grapui\bin\Debug\Grapui.exe
+D:\графы\Grapui\Grapui\bin\Debug\Grapui.pdb
+D:\графы\Grapui\Grapui\obj\Debug\Grapui.csproj.AssemblyReference.cache
+D:\графы\Grapui\Grapui\obj\Debug\Grapui.csproj.CoreCompileInputs.cache
+D:\графы\Grapui\Grapui\obj\Debug\Grapui.exe
+D:\графы\Grapui\Grapui\obj\Debug\Grapui.pdb
+C:\Users\20031\OneDrive\Рабочий стол\Grapui\Grapui\bin\Debug\Grapui.exe.config
+C:\Users\20031\OneDrive\Рабочий стол\Grapui\Grapui\bin\Debug\Grapui.exe
+C:\Users\20031\OneDrive\Рабочий стол\Grapui\Grapui\bin\Debug\Grapui.pdb
+C:\Users\20031\OneDrive\Рабочий стол\Grapui\Grapui\obj\Debug\Grapui.csproj.AssemblyReference.cache
+C:\Users\20031\OneDrive\Рабочий стол\Grapui\Grapui\obj\Debug\Grapui.csproj.CoreCompileInputs.cache
+C:\Users\20031\OneDrive\Рабочий стол\Grapui\Grapui\obj\Debug\Grapui.exe
+C:\Users\20031\OneDrive\Рабочий стол\Grapui\Grapui\obj\Debug\Grapui.pdb
+D:\графы\Grapui\Grapui\bin\Debug\System.ValueTuple.dll
+D:\графы\Grapui\Grapui\bin\Debug\System.ValueTuple.xml
+D:\графы\Grapui\Grapui\obj\Debug\Grapui.csproj.CopyComplete
